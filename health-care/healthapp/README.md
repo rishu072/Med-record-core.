@@ -25,6 +25,8 @@ If you are showcasing this project on your resume, here are the core accomplishm
 
 ## 🗺️ System Working Flow
 
+<img width="1542" height="1016" alt="Screenshot 2026-06-20 075658" src="https://github.com/user-attachments/assets/c547e7cf-6614-4f54-8746-611e5777100f" />
+
 The diagram below outlines the core application architectures and interactions:
 
 ```mermaid
