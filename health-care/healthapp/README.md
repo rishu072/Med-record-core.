@@ -1,11 +1,17 @@
 # 🏥 MyHealthRecord — Secure E-Health Records & Emergency Bypass Share Platform
 
-[![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)](https://react.dev/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-green?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-38bdf8?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-[![Cloudinary](https://img.shields.io/badge/Cloudinary-Media_Upload-blueviolet?style=for-the-badge&logo=cloudinary)](https://cloudinary.com/)
-[![JWT](https://img.shields.io/badge/JWT-Authentication-orange?style=for-the-badge&logo=json-web-tokens)](https://jwt.io/)
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,mongodb,tailwind,nodejs" />
+</p>
+
+- **Framework:** Next.js 16
+- **UI:** React 19
+- **Database:** MongoDB + Mongoose
+- **Styling:** Tailwind CSS v4
+- **Media Storage:** Cloudinary
+- **Authentication:** JWT
 
 **MyHealthRecord** is a modern, responsive, and secure electronic health records (EHR) management application. It bridges the gap between patient data ownership and emergency medical availability. Built with **Next.js**, **React**, **MongoDB**, and **Cloudinary**, it offers patients a digital healthcare passbook. It provides first responders (paramedics, emergency doctors) with a zero-login emergency bypass portal via secure access keys and QR codes.
 
